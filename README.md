@@ -3,7 +3,7 @@
 In teams, you will be building a mobile responsive website given a Figma design.
 
 ### Project Details
-- Worth 40% of final grade
+- Worth 30% of final grade
 - In groups of 3-4 people
 - What it looks like full screen desktop: https://www.figma.com/proto/d3kVm1j5EGdoXEsUjWxb47/Cat-Cafe-Team-Website?node-id=12%3A4&scaling=scale-down-width&page-id=0%3A1
 - Figma design breakdown: https://www.figma.com/file/d3kVm1j5EGdoXEsUjWxb47/Cat-Cafe-Team-Website?node-id=12%3A4
