@@ -13,7 +13,7 @@ In teams, you will be building a mobile responsive website given a Figma design.
     - [https://unsplash.com/photos/egk9uKaoNng](https://unsplash.com/photos/egk9uKaoNng)
     - screenshot of YorkU on google maps
     
-### What is required of you
+### What to hand in
 - create a Figma file and complete the mobile version design of what was given to you
 - build (using HTML and CSS) the Cat Cafe website for both desktop and mobile
 - in your project folder, create a `README.md` file and include the figma link of your design
