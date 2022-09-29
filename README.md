@@ -1,4 +1,4 @@
-# FS1000 Team Project - Cat Cafe Website
+# FS1000 Team Project - Cat Cafe Website!
 
 In teams, you will be building a mobile responsive website given a Figma design.
 
